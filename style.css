@@ -1,4 +1,4 @@
-body {
+/* body {
   font-family: Arial, sans-serif;
   background: #f4f4f4;
   margin: 0;
@@ -53,4 +53,9 @@ li button {
   border: none;
   padding: 5px 10px;
   cursor: pointer;
+} */
+
+.completed span {
+  text-decoration: line-through;
+  color: gray;
 }
